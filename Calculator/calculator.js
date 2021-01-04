@@ -4,7 +4,7 @@ var show=document.getElementById("view");
 var equal=document.getElementById("equal");
 var num1;
 var num2;
-var press = 0; //标识操作符号是否按下，按下时读取num1，再清屏，准备读num2
+var press = 0; 
 var type = 0;
 
 for (i = 0; i < num.length; i++) {
